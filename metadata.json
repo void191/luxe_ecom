@@ -1,0 +1,5 @@
+{
+  "name": "LuxeMotion E-Commerce",
+  "description": "A modern, premium e-commerce storefront showcasing advanced animations and a fluid user experience. Built with React, TypeScript, and Tailwind CSS, it features light and dark themes, product browsing, a dynamic cart, and a seamless checkout process.",
+  "requestFramePermissions": []
+}
